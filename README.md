@@ -1,4 +1,4 @@
-# ExploreCali
+# ExploreCali (Project)
 
 ## This is the backend for California Tours where customer can get a list of tours from various Tour Packages.
 ## And also customer can rate it on the basis of his/her experienc on tours.
